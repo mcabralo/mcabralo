@@ -1,16 +1,17 @@
 ### Hello 👋
 
-My name is Matheus and i'm a creator! I'm brasilian and i absolutely love technology! For a long time i had i big ol' crush on her and when a opportunity to study it presented itself i just had to grab with nail an teeth. So far i completed a lot of small projects and a few great ones to improve my skills. Here's the stack that i have some or good knowledge:
+My name is Matheus and i'm a creator! I'm brasilian and i absolutely love technology! For a long time I had a big ol' crush on her and when a opportunity to study it presented itself i just had to grab with nail an teeth. So far i completed a lot of small projects and a few great ones to improve my skills. Here's the stack that i have some or good knowledge:
 
-- PHP (Laravel)
+- PHP (Laravel, CodeIgniter)
 - Javascript (Vue.js, Angular, React & NextJS)
 - HTML
 - CSS (SASS, Bootstrap, Materialize)
 - Python
-- SQL (MySQL & Sqlite)
+- SQL (MySQL, Sqlite & Oracle)
 - C++ (Unity & Arduino)
+- Bash (Shell Linux)
  
- In addition to those, i have a some Soft Skills that i would love to show them facing a good cup of coffee or tea. Mainly i'm a good in problem solving, i always check the situation trying to find the quickest and the best solution. I'm a great communicator and a team person all the way, but specially i love facing challenges and i have no trouble working under pressure or in a timeline.
+ In addition to those, i have a few Soft Skills that i would love to show, facing a good cup of coffee or tea. Mainly I'm good at problem solving and therefore, I always check the situation trying to find the quickest and the best solution. I'm a great communicator and a team player all the way, specially I love facing challenges and I have no trouble working under pressure or in a timeline.
  
  My goal with technology is continue to improve my skills as a developper and a person. 
  
