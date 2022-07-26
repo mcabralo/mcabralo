@@ -1,5 +1,11 @@
 ### Hello 👋
 
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 My name is Matheus and i'm a creator! I'm brasilian and i absolutely love technology! For a long time I had a big ol' crush on her and when a opportunity to study it presented itself i just had to grab with nail an teeth. So far i completed a lot of small projects and a few great ones to improve my skills. Here's the stack that i have some or good knowledge:
 
 - PHP (Laravel, CodeIgniter)
